@@ -1,0 +1,33 @@
+ 
+
+                       Krishna Unversity
+                    College Fee Demand Notice
+College code: 107	College jvdid: NaN
+ College name: A.V.R. Degree College
+
+		 College Course Details
+coure	    c_code  c_id  spl.   sub1      sub2         sub3      		intake
+BA          401 1071 HEP        ***        ***        ***        	   40 
+B. Sc       408 1072 General    Mathematics Physics    Chemistry  	   30 
+B. Sc       409 1073 Computer Science ***        ***        ***        	   70 
+B. Com      405 1074 Computers  ***        ***        ***        	   90 
+
+year wise admissions
+clg_code crs_id intake 1st	2nd	3rd	  4th   5th
+   401   1071     40     3     6     0     0     0
+   408   1072     30     0     0     4     0     0
+   409   1073     70    55    64    32     0     0
+   405   1074     90    56    28     4     0     0
+
+clg_code crs_cd crs_id  aff_fee	rru1_fee  rru2+_fee  iut_fee  yf_fee
+   107    401   1071    975.00       675      1350       900       675
+   107    408   1072   1475.00         0       900       400       300
+   107    409   1073   8800.00     12375     21600     15100     11325
+   107    405   1074   6800.00     12600      7200      8800      6600
+
+TOTAL FEE PAYABLE :
+clg_code  aff_fee	    rru1_fee  rru2+_fee  iut_fee	yf_fee  sports_fee  insp_fee
+
+   107   18050.00     25650     31050     25200     18900       1200      10000 
+
+Grand Total demand:  130050.00

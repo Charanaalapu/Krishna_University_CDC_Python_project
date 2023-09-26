@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:beige;
+}.heading{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background-color: rgb(59, 118, 170);
+}
+#headh4,h1{
+    color: white;
+}
+.form_div{
+    display: flex;
+    justify-content: center;
+    /* background-color:#002217; */
+}
+#head2{
+    display: flex;
+    justify-content: center;
+    color: #37AFB8;
+}
+.reportmsg{
+    align-items: center;
+
+}
+.cdc_info{
+    display: flex;
+    justify-content: center;
+}

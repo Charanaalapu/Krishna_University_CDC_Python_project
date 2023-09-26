@@ -1,0 +1,27 @@
+ 
+
+                       Krishna Unversity
+                    College Fee Demand Notice
+College code: 231	College jvdid: NaN
+ College name: Vikas College of Education
+
+		 College Course Details
+coure	    c_code  c_id  spl.   sub1      sub2         sub3      		intake
+B. Ed       418 2311 ***        ***        ***        ***        	  100 
+M. Ed       512 2312 ***        ***        ***        ***        	   50 
+
+year wise admissions
+clg_code crs_id intake 1st	2nd	3rd	  4th   5th
+   418   2311    100   100   100     0     0     0
+   512   2312     50    38    22     0     0     0
+
+clg_code crs_cd crs_id  aff_fee	rru1_fee  rru2+_fee  iut_fee  yf_fee
+   231    418   2311  80000.00    115000    115000     20000     15000
+   231    512   2312  39000.00     43700     25300      6000      4500
+
+TOTAL FEE PAYABLE :
+clg_code  aff_fee	    rru1_fee  rru2+_fee  iut_fee	yf_fee  sports_fee  insp_fee
+
+   231  119000.00    158700    140300     26000     19500       1200      10000 
+
+Grand Total demand:  474700.00
